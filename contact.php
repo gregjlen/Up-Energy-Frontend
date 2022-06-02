@@ -26,23 +26,22 @@ include "$app_root/app/header.inc.php";
                         <div class="img-card img-card-2" style="background: rgb(128,225,242);
 background: -moz-linear-gradient(164deg, rgba(128,225,242,1) 0%, rgba(178,221,201,1) 100%);
 background: -webkit-linear-gradient(164deg, rgba(128,225,242,1) 0%, rgba(178,221,201,1) 100%);
-background: linear-gradient(164deg, rgba(128,225,242,1) 0%, rgba(178,221,201,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#80e1f2",endColorstr="#b2ddc9",GradientType=1);">
+background: linear-gradient(164deg, rgba(128,225,242,1) 0%, rgba(178,221,201,1) 100%);">
                             <div class="card-content">
                                 <div class="content-top">
                                     <p>Nous sommes disponible pour répondre à vos question et construire ensemble votre futur projet de rénnovation.</p><br>
-                                    <p>Réponse sous 24h par mail ou téléphone.</p>
+                                    <p>Réponse sous 48h par mail ou téléphone.</p>
                                 </div>
                                 <div class="content-bottom">
                                     <ul class="list-unstyled contact-infos">
                                         <li class="contact-info"><i class="energia-phone-Icon"></i>
-                                            <p>Téléphone: <a href="tel:123-456-7890">04.65.84.64.74</a></p>
+                                            <p>Téléphone: <a href="tel:123-456-7890">04 65 84 64 74</a></p>
                                         </li>
                                         <li class="contact-info"><i class="energia-location-Icon"></i>
-                                            <p>Adresse: <a href="mailto:info@energia.com">93 Boulevard des belges		</a></p>
+                                            <p>Adresse: <a href="mailto:info@energia.com">132 rue bossuet		</a></p>
                                         </li>
                                         <li class="contact-info"><i class="energia-clock-Icon"></i>
-                                            <p>Lundi - Vendredi : 8h - 20h</p>
+                                            <p>Lundi - Vendredi : 9h - 19h</p>
                                         </li>
                                     </ul>
                                 </div>

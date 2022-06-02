@@ -15,8 +15,7 @@
                     <p class="heading-desc">
                         Up-energy vous accompagne du début de votre projet jusqu'à sa finalisation. Nous nous occupons de la constitution des dossiers de demande d'aide, des devis et des travaux.
                     </p>
-                    <div class="actions-holder"><a class="btn btn--primary btn--inversed" href="page-contact.html">
-                            Nos produits<i class="energia-arrow-right"></i></a></div>
+
                 </div>
             </div>
             <!-- End .row-->

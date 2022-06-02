@@ -27,7 +27,7 @@
                                     dans vos travaux énergétique. </p>
                                 <p>Plusieurs aides sont proposées pour les propriétaires qui veulent réaliser des travaux à leur domicile.
                                     <B>MaPrimeRenov'</B> et le <b>Coup de pouce énergétique</b> vous permettent de réduire votre reste à chargeur au
-                                    minimum ! </p><a class="btn btn--secondary" href="">Mes aides <i class="energia-arrow-right"></i></a>
+                                    minimum ! </p>
                             </div>
                         </div>
                         <div class="col-12 col-lg-5">

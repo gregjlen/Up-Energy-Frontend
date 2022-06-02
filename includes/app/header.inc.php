@@ -20,9 +20,7 @@
 
 </head>
 <body>
-<div class="preloader">
-    <div class="dual-ring"></div>
-</div>
+
 <!-- Document Wrapper-->
 <div class="wrapper clearfix" id="wrapperParallax">
 
@@ -56,17 +54,19 @@
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="pac.php"><span>Pompe a chaleur Air / Eau</span></a></li>
                             <li class="nav-item"><a href="vmc.php"><span>VMC Double flux</span></a></li>
+                            <!--
                             <li class="nav-item"><a href=""><span>Chaudière BioMasse a granule</span></a></li>
                             <li class="nav-item"><a href=""><span>Ballon thermodynamique</span></a></li>
                             <li class="nav-item"><a href=""><span>Chauffe eau solaire thermique</span></a></li>
                             <li class="nav-item"><a href=""><span>Isolation comble perdus</span></a></li>
                             <li class="nav-item"><a href=""><span>Isolation planchers bas</span></a></li>
                             <li class="nav-item"><a href=""><span>Isolation des murs par l’extérieur</span></a></li>
+                            -->
                         </ul>
                     </li>
                     <li class="nav-item" data-hover=""><a href=""><span style="text-transform: none;">Calculer mes aides</span></a></li>
-                    <li class="nav-item" data-hover=""><a href=""><span>Blog</span></a></li>
-                    <li class="nav-item" data-hover=""><a href=""><span style="text-transform: none;">A propos</span></a></li>
+                    <li class="nav-item" data-hover=""><a href="blog.php"><span>Blog</span></a></li>
+                    <li class="nav-item" data-hover=""><a href="a-propos.php"><span style="text-transform: none;">A propos</span></a></li>
                     <li class="nav-item" data-hover=""><a href="contact.php"><span>Contact</span></a></li>
                     <?php
 

@@ -30,7 +30,6 @@ include "$app_root/app/header.inc.php";
                                     <p class="slide-desc text-dark">
                                         l'énergie est notre avenir, économisons la.
                                     </p>
-                                    <div class="slide-action"><a class="btn btn--primary" href=""> <span>Nos produits</span><i class="energia-arrow-right"></i></a></div>
                                 </div>
                                 <!-- End .slide-content -->
                             </div>

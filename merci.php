@@ -19,22 +19,18 @@ include "$app_root/app/header.inc.php";
 
                     </div>
                 </div>
-                <div class="col-12 col-lg-7">
-                    <div class="heading heading-1">
-                        <h2 class="heading-title">Bienvenue chez Up-energy !</h2>
+                <div class="col-12 col-lg-7 mt-5">
+                    <div class="heading heading-1 mt-5">
+                        <h2 class="heading-title">Merci pour votre message !</h2>
                     </div>
                     <div class="about-block">
                         <div class="row">
                             <div class="col-12 col-lg-12">
                                 <div class="block-left">
-                                    <p class="paragraph">Up-energy est une entreprise Lyonnaise qui vous propose l’accompagnement dans vos travaux énergétiques.
-
+                                    <p class="paragraph">
+                                        Votre demande est prise en compte, un conseiller énergétique va reprendre contact avec vous sous peu.
                                     </p>
-                                    <p>
-                                        Forte d’une expérience dans le domaine, nous proposons de trouver ensemble les meilleures solutions pour votre habitat mais aussi de constituer les dossiers d’aide et de prendre en charge la réalisation et le suivi du chantier.
 
-                                        Nous travaillons avec des partenaires de confiance qui sont reconnu dans le milieu et qui nous assurent une qualité de service optimale.
-                                    </p>
                                 </div>
                             </div>
                         </div>

@@ -15,10 +15,11 @@ include "$app_root/app/header.inc.php";
 </style>
 
 
-    <section class="slider slider-2" id="slider-2">
+    <section class="slider slider-2">
         <div class="container-fluid pe-0 ps-0">
-            <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="true" data-dots="true" data-space="0" data-loop="true" data-speed="800">
+            <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="false" data-space="0" data-loop="true" data-speed="800">
                 <!--  Start .slide-->
+
                 <div class="slide bg-overlay">
                     <div class="bg-section"><img src="https://static-cdn.ateros.fr/file/ateros/3LshswQIoWt5U1eeZB525fT4fKKuEQY5VmtHZ85T.png" alt="Background"/></div>
                     <div class="container">

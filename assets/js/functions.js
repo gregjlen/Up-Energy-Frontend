@@ -205,9 +205,9 @@
             nav: $Carousel.data('nav'),
             dots: $Carousel.data('dots'),
             dotsSpeed: $Carousel.data('speed'),
-            mouseDrag: $Carousel.data('drag'),
-            touchDrag: $Carousel.data('drag'),
-            pullDrag: $Carousel.data('drag'),
+            mouseDrag: false,
+            touchDrag: false,
+            pullDrag: false,
             rtl: $carouselrtl,
             responsive: {
                 0: {

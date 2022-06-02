@@ -27,22 +27,13 @@
 <div class="wrapper clearfix" id="wrapperParallax">
 
     <header class="header header-light header-topbar header-topbar1 header-shadow" id="navbar-spy">
+
         <div class="top-bar">
             <div class="block-left">
                 <div class="top-contact">
                     <div class="contact-infos"><i class="energia-phone-Icon"></i>
-                        <div class="contact-body">
-                            <p>Téléphone: <a href="tel:123-456-7890">04.65.84.64.74</a></p>
-                        </div>
-                    </div>
-                    <div class="contact-infos"><i class="energia-email--icon"></i>
-                        <div class="contact-body">
-                            <p>Email: <a href="mailto:info@energia.com">contact@up-energy.fr			</a></p>
-                        </div>
-                    </div>
-                    <div class="contact-infos"><i class="energia-clock-Icon"></i>
-                        <div class="contact-body">
-                            <p>Lundi - Vendredi : 8h - 20h			</p>
+                        <div class="contact-body text-center">
+                            <p>Téléphone: <a href="tel:123-456-7890">04 65 84 64 74</a></p>
                         </div>
                     </div>
                 </div>

@@ -9,11 +9,9 @@
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="">A propos</a></li>
-                                <li><a href="">Mentions légales</a></li>
-                                <li><a href="">CGV</a></li>
-                                <li><a href="">CGU</a></li>
-                                <li><a href="">Garanties</a></li>
+                                <li><a href="a-propos.php">À propos</a></li>
+                                <li><a href="mentions.php">Mentions légales</a></li>
+                                <li><a href="litiges.php">Litiges et réclamations </a></li>
                             </ul>
                         </div>
                     </div>

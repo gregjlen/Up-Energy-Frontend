@@ -54,14 +54,14 @@
                         <ul class="dropdown-menu">
                             <li class="nav-item"><a href="pac.php"><span>Pompe a chaleur Air / Eau</span></a></li>
                             <li class="nav-item"><a href="vmc.php"><span>VMC Double flux</span></a></li>
-                            <!--
-                            <li class="nav-item"><a href=""><span>Chaudière BioMasse a granule</span></a></li>
+
+                            <li class="nav-item"><a href="chaudiere-bio-masse.php"><span>Chaudière BioMasse a granule</span></a></li>
                             <li class="nav-item"><a href=""><span>Ballon thermodynamique</span></a></li>
                             <li class="nav-item"><a href=""><span>Chauffe eau solaire thermique</span></a></li>
                             <li class="nav-item"><a href=""><span>Isolation comble perdus</span></a></li>
                             <li class="nav-item"><a href=""><span>Isolation planchers bas</span></a></li>
                             <li class="nav-item"><a href=""><span>Isolation des murs par l’extérieur</span></a></li>
-                            -->
+
                         </ul>
                     </li>
                     <li class="nav-item" data-hover=""><a href=""><span style="text-transform: none;">Calculer mes aides</span></a></li>

@@ -60,7 +60,7 @@
                             <li class="nav-item"><a href="chauffe-eau-solaire.php"><span>Chauffe eau solaire thermique</span></a></li>
                             <li class="nav-item"><a href="isolation-combles-perdus.php"><span>Isolation comble perdus</span></a></li>
                             <li class="nav-item"><a href="isolation-planchers-bas.php"><span>Isolation planchers bas</span></a></li>
-                            <li class="nav-item"><a href="isolaiton-murs-exterieur.php"><span>Isolation des murs par l’extérieur</span></a></li>
+                            <li class="nav-item"><a href="isolation-murs-exterieur.php"><span>Isolation des murs par l’extérieur</span></a></li>
 
                         </ul>
                     </li>

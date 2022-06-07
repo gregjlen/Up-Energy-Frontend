@@ -58,13 +58,13 @@
                             <li class="nav-item"><a href="chaudiere-bio-masse.php"><span>Chaudière BioMasse a granule</span></a></li>
                             <li class="nav-item"><a href="ballon-thermodynamique.php"><span>Ballon thermodynamique</span></a></li>
                             <li class="nav-item"><a href="chauffe-eau-solaire.php"><span>Chauffe eau solaire thermique</span></a></li>
-                            <li class="nav-item"><a href=""><span>Isolation comble perdus</span></a></li>
-                            <li class="nav-item"><a href=""><span>Isolation planchers bas</span></a></li>
-                            <li class="nav-item"><a href=""><span>Isolation des murs par l’extérieur</span></a></li>
+                            <li class="nav-item"><a href="isolation-combles-perdus.php"><span>Isolation comble perdus</span></a></li>
+                            <li class="nav-item"><a href="isolation-planchers-bas.php"><span>Isolation planchers bas</span></a></li>
+                            <li class="nav-item"><a href="isolaiton-murs-exterieur.php"><span>Isolation des murs par l’extérieur</span></a></li>
 
                         </ul>
                     </li>
-                    <li class="nav-item" data-hover=""><a href=""><span style="text-transform: none;">Calculer mes aides</span></a></li>
+                    <!--<li class="nav-item" data-hover=""><a href=""><span style="text-transform: none;">Calculer mes aides</span></a></li>-->
                     <li class="nav-item" data-hover=""><a href="blog.php"><span>Blog</span></a></li>
                     <li class="nav-item" data-hover=""><a href="a-propos.php"><span style="text-transform: none;">A propos</span></a></li>
                     <li class="nav-item" data-hover=""><a href="contact.php"><span>Contact</span></a></li>

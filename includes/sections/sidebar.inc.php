@@ -11,6 +11,9 @@
                 <li><a href="chaudiere-bio-masse.php"> <span>Chaudière BioMasse</span><i class="energia-arrow-right"></i></a></li>
                 <li><a href="ballon-thermodynamique.php"> <span>Ballon thermodynamique</span><i class="energia-arrow-right"></i></a></li>
                 <li><a href="chauffe-eau-solaire.php"> <span>Chauffe eau solaire</span><i class="energia-arrow-right"></i></a></li>
+                <li><a href="isolation-combles-perdus.php"> <span>Isolation des combles perdus</span><i class="energia-arrow-right"></i></a></li>
+                <li><a href="isolation-planchers-bas.php"> <span>Isolation des planchers bas</span><i class="energia-arrow-right"></i></a></li>
+                <li><a href="isolaiton-murs-exterieur.php"> <span>Isolation des murs par l’extérieur</span><i class="energia-arrow-right"></i></a></li>
             </ul>
         </div>
     </div>

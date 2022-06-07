@@ -9,6 +9,8 @@
                 <li><a href="pac.php"> <span>Pompe à chaleur</span><i class="energia-arrow-right"></i></a></li>
                 <li><a href="vmc.php"> <span>VMC Double flux</span><i class="energia-arrow-right"></i></a></li>
                 <li><a href="chaudiere-bio-masse.php"> <span>Chaudière BioMasse</span><i class="energia-arrow-right"></i></a></li>
+                <li><a href="ballon-thermodynamique.php"> <span>Ballon thermodynamique</span><i class="energia-arrow-right"></i></a></li>
+                <li><a href="chauffe-eau-solaire.php"> <span>Chauffe eau solaire</span><i class="energia-arrow-right"></i></a></li>
             </ul>
         </div>
     </div>

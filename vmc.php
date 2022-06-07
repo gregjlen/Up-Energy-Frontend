@@ -62,7 +62,7 @@ include "$app_root/app/header.inc.php";
               <div class="service-entry">
                 <div class="entry-content">
                   <div class="entry-introduction entry-infos">
-                    <h5 class="entry-heading">VMC, Principe de fonctionnement</h5>
+                    <h5 class="entry-heading">Une VMC c'est quoi?</h5>
                     <p class="entry-desc">
 
                         Le système permet par le biais d'un échangeur (bloc sous le toit) de récupérer la chaleur de l'air extrait (en orange) pour la transférer à
@@ -81,7 +81,7 @@ include "$app_root/app/header.inc.php";
 
                   </div>
                   <div class="entry-stats entry-infos">
-                    <h5 class="entry-heading">Principe de fonctionnement </h5>
+                    <h5 class="entry-heading">Fonctionnement </h5>
                     <div class="row">
                       <div class="col-12 col-lg-6">
 

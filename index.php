@@ -58,6 +58,7 @@ include "$app_root/app/header.inc.php";
         background-image: -webkit-gradient(linear, left top, left bottom, from(#6fa9d0), color-stop(86%, #9bc7b3));
         background-image: -o-linear-gradient(top, #6fa9d0 0%, #9bc7b3 86%);
         background-image: linear-gradient(180deg, #6fa9d0 0%, #9bc7b3 86%);
+
     }
 
 </style>
@@ -69,9 +70,11 @@ include "$app_root/app/header.inc.php";
                     <!-- Start .feature-panel-->
                     <div class="feature-panel">
                         <div class="feature-content">
+                            <a href="">
                             <img src="https://static-cdn.ateros.fr/file/ateros/FyD9XWRo5SWeVdyQQGf1KlSgOvGFv55dsmaYuFFy.png" width="64">
                             <br><br>
                             <h5>Isoler ma maison</h5>
+                            </a>
                         </div>
                     </div>
                     <!-- End .feature-panel-->
@@ -80,9 +83,11 @@ include "$app_root/app/header.inc.php";
                     <!-- Start .feature-panel-->
                     <div class="feature-panel">
                         <div class="feature-content">
+                            <a href="">
                             <img src="https://static-cdn.ateros.fr/file/ateros/p0ZKsi4gP0rEDefvcFSd43pwjvf6ZPKGX4mVpEVM.png" width="64">
                             <br><br>
                             <h5>Changer mon chauffage</h5>
+                            </a>
                         </div>
                     </div>
                     <!-- End .feature-panel-->
@@ -91,9 +96,11 @@ include "$app_root/app/header.inc.php";
                     <!-- Start .feature-panel-->
                     <div class="feature-panel">
                         <div class="feature-content">
+                            <a href="calculateur.php">
                             <img src="https://static-cdn.ateros.fr/file/ateros/vNRz5pxASKvdgLePKSFL34Zibyz7bCYTWMeuANQ4.png" width="64">
                             <br><br>
                             <h5>Calculer mes aides</h5>
+                            </a>
                         </div>
                     </div>
                     <!-- End .feature-panel-->
@@ -102,9 +109,11 @@ include "$app_root/app/header.inc.php";
                     <!-- Start .feature-panel-->
                     <div class="feature-panel">
                         <div class="feature-content">
+                            <a href="contact.php">
                             <img src="https://static-cdn.ateros.fr/file/ateros/Z20xchKPIjSrK0LvbCqhp14lChN2UlxjTVxlywc0.png" width="64">
                             <br><br>
                             <h5>Parler à un expert</h5>
+                            </a>
                         </div>
                     </div>
                     <!-- End .feature-panel-->

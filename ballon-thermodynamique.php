@@ -62,7 +62,7 @@ Services Single Section
                 <div class="service-entry">
                     <div class="entry-content">
                         <div class="entry-introduction entry-infos">
-                            <h5 class="entry-heading">VMC, Principe de fonctionnement</h5>
+                            <h5 class="entry-heading">Principe de fonctionnement</h5>
                             <p class="entry-desc">
 
                                 Un chauffe-eau thermodynamique est un appareil qui intègre une pompe à chaleur en plus d’une résistance électrique. Cette pompe à chaleur récupère les calories naturellement présentes dans l’air pour chauffer l’eau du ballon… et donc l’eau sanitaire. C’est ce qu’on appelle l’aérothermie. La solution est connue pour être particulièrement économique : la ressource utilisée (l’air) est en effet gratuite et renouvelable à l’infini ; par ailleurs, cet équipement ne consomme que peu d’électricité : des tests ont ainsi montré qu’utiliser cet équipement permet de réaliser jusqu’à 75% d’économies d’énergie par rapport à la consommation d’un chauffe-eau classique (électrique).

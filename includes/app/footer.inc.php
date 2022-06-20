@@ -24,14 +24,16 @@
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="">Pompe a chaleur Air / Eau</a></li>
-                                <li><a href="">VMC Double flux</a></li>
-                                <li><a href="">Chaudière BioMasse a granule</a></li>
-                                <li><a href="">Ballon thermodynamique</a></li>
-                                <li><a href="">Chauffe eau solaire thermique</a></li>
-                                <li><a href="">Isolation comble perdus</a></li>
-                                <li><a href="">Isolation planchers bas</a></li>
-                                <li><a href="">Isolation des murs par l’extérieur</a></li>
+                                <li><a href="pac.php"><span>Pompe a chaleur Air / Eau</span></a></li>
+                                <li><a href="vmc.php"><span>VMC Double flux</span></a></li>
+
+                                <li><a href="chaudiere-bio-masse.php"><span>Chaudière BioMasse a granule</span></a></li>
+                                <li><a href="ballon-thermodynamique.php"><span>Ballon thermodynamique</span></a></li>
+                                <li><a href="chauffe-eau-solaire.php"><span>Chauffe eau solaire thermique</span></a></li>
+                                <li><a href="isolation-combles-perdus.php"><span>Isolation comble perdus</span></a></li>
+                                <li><a href="isolation-planchers-bas.php"><span>Isolation planchers bas</span></a></li>
+                                <li><a href="isolation-murs-exterieur.php"><span>Isolation des murs par l’extérieur</span></a></li>
+                                <li><a href="systeme-solaire-combine.php"><span>Système solaire combiné</span></a></li>
                             </ul>
                         </div>
                     </div>

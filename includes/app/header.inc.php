@@ -16,7 +16,7 @@
     -->
     <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
     <link href="assets/css/vendor.min.css" rel="stylesheet"/>
-    <link href="assets/css/style.css?v=1.4.1" rel="stylesheet"/>
+    <link href="assets/css/style.css?v=1.4.2" rel="stylesheet"/>
 
 </head>
 <body>
@@ -31,7 +31,7 @@
                 <div class="top-contact">
                     <div class="contact-infos"><i class="energia-phone-Icon"></i>
                         <div class="contact-body text-center">
-                            <p>Téléphone: <a href="tel:123-456-7890">04 65 84 64 74</a></p>
+                            <p style="font-size : 1.5em;"><a href="tel:123-456-7890" style="font-size : 0.8em;">04 65 84 64 74</a></p>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
 
             </div>
         </div>
-        <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu"><a class="navbar-brand" href="index.php"><img class="logo logo-dark" src="assets/images/logo/v3.png" height="120" alt="Energia Logo"/><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="Energia Logo"/></a>
+        <nav class="navbar navbar-expand-lg navbar-sticky" id="primary-menu"><a class="navbar-brand" href="index.php"><img class="logo logo-dark" src="assets/images/logo/v3.png" height="100" alt="Energia Logo"/><img class="logo logo-mobile" src="assets/images/logo/logo-mobile.png" alt="Energia Logo"/></a>
             <div class="module-holder module-holder-phone">
 
             </div>
@@ -61,6 +61,7 @@
                             <li class="nav-item"><a href="isolation-combles-perdus.php"><span>Isolation comble perdus</span></a></li>
                             <li class="nav-item"><a href="isolation-planchers-bas.php"><span>Isolation planchers bas</span></a></li>
                             <li class="nav-item"><a href="isolation-murs-exterieur.php"><span>Isolation des murs par l’extérieur</span></a></li>
+                            <li class="nav-item"><a href="systeme-solaire-combine.php"><span>Système solaire combiné</span></a></li>
 
                         </ul>
                     </li>

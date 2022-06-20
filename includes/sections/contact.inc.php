@@ -44,11 +44,11 @@
                         <!--Radio-->
                         <label>Produit
                             <em>*</em>
-                        </label>
+                        </label><br><br>
                         <input type="radio" id="Dropdown1_1" name="Dropdown1" value="Pompe&#x20;&agrave;&#x20;chaleur">
-                        <label for="Dropdown1_1" >Pompe&#x20;&agrave;&#x20;chaleur</label>
+                        <label for="Dropdown1_1" >Pompe&#x20;&agrave;&#x20;chaleur</label><br><br>
                         <input  type="radio" id="Dropdown1_2" name="Dropdown1" value="Chaudi&egrave;re&#x20;Biomasse">
-                        <label for="Dropdown1_2" >Chaudi&egrave;re&#x20;Biomasse</label>
+                        <label for="Dropdown1_2" >Chaudi&egrave;re&#x20;Biomasse</label><br><br>
                         <button type="submit" class="btn btn--secondary w-100">Envoyer ma demande <i class="energia-arrow-right"></i></button>
                     </form>
 

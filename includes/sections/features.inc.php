@@ -29,6 +29,7 @@
                 background-image: linear-gradient(180deg, #6fa9d0 0%, #9bc7b3 86%);
                 border-radius: 10px;
             }
+
         </style>
 
         <div class="carousel owl-carousel carousel-dots" data-slide="4" data-slide-rs="2" data-autoplay="false" data-nav="false" data-dots="true" data-space="25" data-loop="true" data-speed="800">

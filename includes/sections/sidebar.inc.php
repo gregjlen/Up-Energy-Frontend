@@ -14,6 +14,7 @@
                 <li><a href="isolation-combles-perdus.php"> <span>Isolation des combles perdus</span><i class="energia-arrow-right"></i></a></li>
                 <li><a href="isolation-planchers-bas.php"> <span>Isolation des planchers bas</span><i class="energia-arrow-right"></i></a></li>
                 <li><a href="isolaiton-murs-exterieur.php"> <span>Isolation des murs par l’extérieur</span><i class="energia-arrow-right"></i></a></li>
+                <li><a href="systeme-solaire-combine.php"> <span>Système solaire combiné</span><i class="energia-arrow-right"></i></a></li>
             </ul>
         </div>
     </div>

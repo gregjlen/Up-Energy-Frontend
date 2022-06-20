@@ -16,7 +16,7 @@
     -->
     <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
     <link href="assets/css/vendor.min.css" rel="stylesheet"/>
-    <link href="assets/css/style.css?v=1.4.2" rel="stylesheet"/>
+    <link href="assets/css/style.css?v=1.4.3" rel="stylesheet"/>
 
 </head>
 <body>

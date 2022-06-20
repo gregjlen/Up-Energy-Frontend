@@ -28,28 +28,53 @@
                         <input type="hidden" name="zf_redirect_url" value=""><!-- To redirect to a specific page after record submission , place the respective url within the " " in the above hidden input field -->
                         <input type="hidden" name="zc_gad" value=""><!-- If GCLID is enabled in Zoho CRM Integration, click details of AdWords Ads will be pushed to Zoho CRM -->
 
-                        <label>Prénom</label>
-                        <input class="form-control" type="text" maxlength="255" name="Name_First" fieldType=7 placeholder="" />
-                        <label>Nom de famille</label>
-                        <input class="form-control" type="text" maxlength="255" name="Name_Last" fieldType=7 placeholder="" />
-                        <!--Email-->
-                        <label> E-mail
-                        </label>
-                        <input  class="form-control" type="text" maxlength="255" name="Email" value="" fieldType=9 placeholder="" />
-                        <!--Phone-->
-                        <label> Téléphone
-                        </label>
-                        <input  class="form-control" type="text" compname="PhoneNumber" name="PhoneNumber_countrycode" phoneFormat="1" isCountryCodeEnabled=false maxlength="20" value="" fieldType=11 id="international_PhoneNumber_countrycode" placeholder="" />
+                        <div class="row">
 
-                        <!--Radio-->
-                        <label>Produit
-                            <em>*</em>
-                        </label><br><br>
-                        <input type="radio" id="Dropdown1_1" name="Dropdown1" value="Pompe&#x20;&agrave;&#x20;chaleur">
-                        <label for="Dropdown1_1" >Pompe&#x20;&agrave;&#x20;chaleur</label><br><br>
-                        <input  type="radio" id="Dropdown1_2" name="Dropdown1" value="Chaudi&egrave;re&#x20;Biomasse">
-                        <label for="Dropdown1_2" >Chaudi&egrave;re&#x20;Biomasse</label><br><br>
-                        <button type="submit" class="btn btn--secondary w-100">Envoyer ma demande <i class="energia-arrow-right"></i></button>
+                            <div class="col-6"><label>Prénom</label>
+                                <input class="form-control" type="text" maxlength="255" name="Name_First" fieldType=7 placeholder="" /></div>
+                            <div class="col-6"><label>Nom de famille</label>
+                                <input class="form-control" type="text" maxlength="255" name="Name_Last" fieldType=7 placeholder="" /></div>
+
+                            <div class="col-6"> <label> E-mail
+                                </label>
+                                <input  class="form-control" type="text" maxlength="255" name="Email" value="" fieldType=9 placeholder="" /></div>
+                            <div class="col-6"> <label> Téléphone
+                                </label>
+                                <input  class="form-control" type="text" compname="PhoneNumber" name="PhoneNumber_countrycode" phoneFormat="1" isCountryCodeEnabled=false maxlength="20" value="" fieldType=11 id="international_PhoneNumber_countrycode" placeholder="" />
+                            </div>
+                        </div>
+
+
+                        <!--Email-->
+
+                        <!--Phone-->
+
+
+                        <div class="col-12">
+                            <label class="form-label" for="select-2">Produit</label>
+                            <select class="form-control" id="select-2">
+                                <option>Isolation des murs par l’extérieur</option>
+                                <option>Chaudière BioMasse a granule</option>
+                                <option>Chauffe eau solaire thermique</option>
+                                <option>Pompe a chaleur Air / Eau</option>
+                                <option>Ballon thermodynamique</option>
+                                <option>Isolation comble perdus</option>
+                                <option>Isolation planchers bas</option>
+                                <option>Système solaire combiné</option>
+                                <option>VMC Double flux</option>
+                            </select>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-1"><input type="checkbox" class="form-check"> </div>
+                            <div class="col-11">Je consens à l’organisation d’une visite technique dans le cadre de mon projet de rénovation énergétique. Un conseiller de la société Up Energy me contactera par téléphone pour m’exposer les modalités d’exécution de cette visite technique  </div>
+
+                            <div class="col-12 mt-3"><i>Vous pouvez vous inscrire gratuitement sur la liste d’opposition au démarchage téléphonique, dans le cadre du dispositif Bloctel : <a href="www.bloctel.gouv.fr">www.bloctel.gouv.fr</a></i></div>
+                        </div>
+
+
+
+                        <button type="submit" class="btn btn--secondary w-100 mt-3">Envoyer ma demande <i class="energia-arrow-right"></i></button>
                     </form>
 
 

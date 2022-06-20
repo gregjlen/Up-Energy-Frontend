@@ -4649,7 +4649,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 }
 
 .top-bar .top-contact .contact-infos i {
-	color       : var(--global--color-primary);
+	color       : #6fa9d0;
 	font-size   : 15px;
 	margin-right: 10px;
 }
@@ -4687,7 +4687,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 
 .top-bar .social-links a {
 	margin-right      : 10px;
-	color             : var(--global--color-primary);
+	color             : #6fa9d0;
 	-webkit-transition: 0.3s ease-in-out;
 	-o-transition     : 0.3s ease-in-out;
 	transition        : 0.3s ease-in-out;

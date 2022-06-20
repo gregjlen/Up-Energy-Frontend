@@ -6,7 +6,7 @@ include "$app_root/app/header.inc.php";
 
 ?>
 
-    <section class="map map-2">
+    <section class="map map-3" >
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -14,7 +14,7 @@ include "$app_root/app/header.inc.php";
                 </div>
             </div>
         </div>
-        <iframe src="https://maps.google.com/maps?q=rue bossuet lyon&amp;t=m&amp;z=13&amp;output=embed&amp;iwloc=near" width="600" height="450" style="border:0;"></iframe>
+        <iframe src="https://maps.google.com/maps?q=rue bossuet lyon&amp;t=m&amp;z=13&amp;output=embed&amp;iwloc=near" width="600" height="550" style="border:0; #zoom{display: none;}!important;"></iframe>
     </section>
 
     <section class="testimonial testimonial-5 bg-overlay bg-overlay-white2">
@@ -38,7 +38,10 @@ background: linear-gradient(164deg, rgba(128,225,242,1) 0%, rgba(178,221,201,1) 
                                             <p>Téléphone: <a href="tel:123-456-7890">04 65 84 64 74</a></p>
                                         </li>
                                         <li class="contact-info"><i class="energia-location-Icon"></i>
-                                            <p>Adresse: <a href="mailto:info@energia.com">132 rue bossuet		</a></p>
+                                            <p>Adresse: <a href="mailto:info@energia.com">132 Rue bossuet - 69006 Lyon		</a></p>
+                                        </li>
+                                        <li class="contact-info"><i class="energia-email--icon"></i>
+                                            <p>Email: <a href="mailto:info@energia.com">contact@up-energy.fr		</a></p>
                                         </li>
                                         <li class="contact-info"><i class="energia-clock-Icon"></i>
                                             <p>Lundi - Vendredi : 9h - 19h</p>

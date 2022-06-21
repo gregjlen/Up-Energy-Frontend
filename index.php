@@ -6,6 +6,10 @@ echo "debug:
 <a href='index.php?id=3'>Test 3 </a> / 
 <a href='index.php?id=4'>Test 4 </a> / 
 <a href='index.php?id=5'>Test 5 </a> / 
+<a href='index.php?id=6'>Test 6 </a> / 
+<a href='index.php?id=7'>Test 7 </a> / 
+<a href='index.php?id=8'>Test 8 </a> / 
+<a href='index.php?id=9'>Test 9 </a> / 
 ";
 ?>
 <?php

@@ -1,3 +1,14 @@
+<?php
+
+session_start();
+
+if (isset($_SESSION['mdp'])){
+
+}else{
+    header('Location: login.php');
+}
+
+?>
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>

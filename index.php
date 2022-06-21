@@ -1,5 +1,15 @@
 <?php
 
+echo "debug: 
+<a href='index.php?id=1'>Test 1 </a> / 
+<a href='index.php?id=2'>Test 2 </a> / 
+<a href='index.php?id=3'>Test 3 </a> / 
+<a href='index.php?id=4'>Test 4 </a> / 
+<a href='index.php?id=5'>Test 5 </a> / 
+";
+?>
+<?php
+
 $app_root = './includes';
 include "$app_root/app/header.inc.php";
 
@@ -18,17 +28,21 @@ include "$app_root/app/header.inc.php";
     <section class="slider slider-2">
         <div class="container-fluid pe-0 ps-0">
             <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="false" data-space="0" data-loop="true" data-speed="800">
-                <!--  Start .slide-->
+                <!--
+
+                https://static-cdn.ateros.fr/file/ateros/3LshswQIoWt5U1eeZB525fT4fKKuEQY5VmtHZ85T.png
+
+                -->
 
                 <div class="slide bg-overlay">
-                    <div class="bg-section"><img src="https://static-cdn.ateros.fr/file/ateros/3LshswQIoWt5U1eeZB525fT4fKKuEQY5VmtHZ85T.png" alt="Background"/></div>
+                    <div class="bg-section"><img src="<?= $_GET['id']; ?>.jpg" alt="Background"/></div>
                     <div class="container">
                         <div class="row">
-                            <div class="col-12 col-lg-7">
-                                <div class="slide-content">
-                                    <h1 class="slide-headline text-dark">Aujourd'hui, l'énergie de demain.</h1>
-                                    <p class="slide-desc text-dark">
-                                        l'énergie est notre avenir, économisons la.
+                            <div class="col-12 col-lg-12">
+                                <div class="slide-content text-center">
+                                    <h1 class="slide-headline text-white">Aujourd'hui,<br> l'énergie de demain.</h1>
+                                    <p class="slide-desc text-white">
+                                        Une solution énergétique adaptée à vos besoins.
                                     </p>
                                 </div>
                                 <!-- End .slide-content -->
@@ -63,7 +77,6 @@ include "$app_root/app/header.inc.php";
 
 </style>
     <section class="features-bar bg-overlay bg-overlay-theme3" id="featuresBar-1">
-        <div class="bg-section"> <img src="https://static-cdn.ateros.fr/file/ateros/YiY5pHLkV4ehBZdVz9idSCY7VYgIfVycNS8nBwiF.png" alt="background"/></div>
         <div class="container">
             <div class="row g-0 features-holder">
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 scp">
@@ -116,17 +129,9 @@ include "$app_root/app/header.inc.php";
                             </a>
                         </div>
                     </div>
-                    <!-- End .feature-panel-->
                 </div>
             </div>
-            <div class="row">
-                <div class="more-features more-features-2">
-                    <p>Une solution adaptée à vos besoins.</p>
-                </div>
-            </div>
-            <!-- End .row-->
         </div>
-        <!-- End .container-->
     </section>
 
 

@@ -6,7 +6,7 @@
                 <div class="col-12 col-sm-6 col-md-6 col-lg-4">
                     <div class="footer-widget widget-links">
                         <div class="footer-widget-title">
-                            <img src="http://up-energy-frontend.test/assets/images/logo/v3.png">
+                            <img src="https://static-cdn.ateros.fr/file/ateros/Fc6j7Scwup2YEPxyj5XkrE5Sqtm8S1OBHmCMlGw3.png">
                             <h5 class="mt-2"><i>Aujourd'hui, l'énergie de demain.</i></h5>
                         </div>
                         <div class="widget-content">
@@ -38,10 +38,10 @@
                                 <li><a href="chaudiere-bio-masse.php"><span>Chaudière BioMasse a granule</span></a></li>
                                 <li><a href="chauffe-eau-solaire.php"><span>Chauffe eau solaire thermique</span></a></li>
                                 <li><a href="pac.php"><span>Pompe a chaleur Air / Eau</span></a></li>
+                                <li><a href="systeme-solaire-combine.php"><span>Système solaire combiné</span></a></li>
                                 <li><a href="ballon-thermodynamique.php"><span>Ballon thermodynamique</span></a></li>
                                 <li><a href="isolation-combles-perdus.php"><span>Isolation comble perdus</span></a></li>
                                 <li><a href="isolation-planchers-bas.php"><span>Isolation planchers bas</span></a></li>
-                                <li><a href="systeme-solaire-combine.php"><span>Système solaire combiné</span></a></li>
                                 <li><a href="vmc.php"><span>VMC Double flux</span></a></li>
                             </ul>
                         </div>
@@ -68,9 +68,9 @@
                         </div>
                         <div class="widget-content">
                             <ul>
-                                <li><a href="a-propos.php">À propos</a></li>
-                                <li><a href="mentions.php">Mentions légales</a></li>
                                 <li><a href="litiges.php">Litiges et réclamations </a></li>
+                                <li><a href="mentions.php">Mentions légales</a></li>
+                                <li><a href="a-propos.php">À propos</a></li>
                             </ul>
                         </div>
                     </div>

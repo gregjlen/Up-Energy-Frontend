@@ -37,27 +37,27 @@
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel scp">
                         <div class="feature-icon">
-                            <img src="https://static-cdn.ateros.fr/file/ateros/Ca05yhXC0ncnag1paVVglZ0gBTtkySd28JcqwGZy.png">
+                            <img src="https://static-cdn.ateros.fr/file/ateros/ZnP2tnw6NDXJqW2IQl7ALOBdFYA1DH9yIxwc61ve.png">
                         </div>
                         <div class="feature-content">
-                            <h4 class="scp-text">Support en France</h4>
-                            <p>Notre entreprise est basée en France et nos commerciaux sont basés à Lyon</p>
+                            <h4 class="scp-text">Sécurité</h4>
+                            <p>Vos informations sont traitées avec grand soins et sécurisées sur nos serveurs protégés</p>
                         </div>
                     </div>
                     <!-- End .feature-panel-->
                 </div>
             </div>
             <div>
-                <div class="feature-panel-holder scp" data-hover="" style="
+                <div class="feature-panel-holder" data-hover="" style="
 
  .scp:hover {
         background-image: -webkit-gradient(linear, left top, left bottom, from(#6fa9d0), color-stop(86%, #9bc7b3));
         background-image: -o-linear-gradient(top, #6fa9d0 0%, #9bc7b3 86%);
         background-image: linear-gradient(180deg, #6fa9d0 0%, #9bc7b3 86%);
     }">
-                    <div class="feature-panel scp">
+                    <div class="feature-panel">
                         <div class="feature-icon">
-                            <img src="https://static-cdn.ateros.fr/file/ateros/AwxJvCZUUoQFk9v8hgHxQ7e9U17ZIvUg82foV0Pm.png">
+                            <img src="https://static-cdn.ateros.fr/file/ateros/NzfzFfNQy6oN00vWeGpKGaxY1xm93N9fUlwXhp3A.png">
                         </div>
                         <div class="feature-content">
                             <h4>Questions & Réponses</h4>
@@ -71,7 +71,7 @@
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel scp">
                         <div class="feature-icon">
-                            <img src="https://static-cdn.ateros.fr/file/ateros/ELAnrNpaddSPMXp4APh9ycAdSE7Z8la4iKFH1Xjs.png">
+                            <img src="https://static-cdn.ateros.fr/file/ateros/PbphZjJc2HIvcNXBOU5PUUYE683kUrN7CMzYuVRy.png">
                         </div>
                         <div class="feature-content">
                             <h4>Dossier de financement</h4>
@@ -85,7 +85,7 @@
                 <div class="feature-panel-holder" data-hover="">
                     <div class="feature-panel scp">
                         <div class="feature-icon">
-                            <img src="https://static-cdn.ateros.fr/file/ateros/RFvOspps7HICm7UrQXdmy4QNdufJBdwTGiMd6xhT.png">
+                            <img src="https://static-cdn.ateros.fr/file/ateros/9cPoGaSty9Y0dRszBZMExv2HWmfWPP1SfP6g5ILP.png">
                         </div>
                         <div class="feature-content">
                             <h4>Suivi du chantier</h4>

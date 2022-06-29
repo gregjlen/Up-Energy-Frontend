@@ -14,7 +14,7 @@ include "$app_root/app/header.inc.php";
                 </div>
             </div>
         </div>
-        <iframe src="https://maps.google.com/maps?q=rue bossuet lyon&amp;t=m&amp;z=13&amp;output=embed&amp;iwloc=near" width="600" height="550" style="border:0; #zoom{display: none;}!important;"></iframe>
+        <iframe src="https://maps.google.com/maps?q=rue bossuet lyon&amp;t=m&amp;z=13&amp;output=embed&amp;iwloc=near" width="600" height="250" style="border:0; #zoom{display: none;}!important;"></iframe>
     </section>
 
     <section class="testimonial testimonial-5 bg-overlay bg-overlay-white2">
@@ -77,8 +77,13 @@ background: linear-gradient(164deg, rgba(128,225,242,1) 0%, rgba(178,221,201,1) 
                                         <div class="col-12">
                                             <textarea class="form-control" id="contact-infos" placeholder="informations complémentaires" name="contact-infos" cols="30" rows="10"></textarea>
                                         </div>
+                                        <div class="row">
+
+                                            <div class="col-12 mt-3"><i>Vous pouvez vous inscrire gratuitement sur la liste d’opposition au démarchage téléphonique, dans le cadre du dispositif Bloctel : <a href="https://www.bloctel.gouv.fr" target="_blank">www.bloctel.gouv.fr</a></i></div>
+                                        </div>
+
                                         <div class="col-12">
-                                            <button class="btn btn--secondary">envoyer<i class="energia-arrow-right"></i></button>
+                                            <button class="btn btn--secondary mt-3">Envoyer<i class="energia-arrow-right"></i></button>
                                         </div>
                                         <div class="col-12">
                                             <div class="contact-result"></div>

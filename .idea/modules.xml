@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$USER_HOME$/Downloads/MAIN_FILES-4/HTML/.idea/HTML.iml" filepath="$USER_HOME$/Downloads/MAIN_FILES-4/HTML/.idea/HTML.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Up-Energy-Frontend.iml" filepath="$PROJECT_DIR$/.idea/Up-Energy-Frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ateros-web-frontend/.idea/ateros-web-frontend.iml" filepath="$PROJECT_DIR$/../ateros-web-frontend/.idea/ateros-web-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../awp/.idea/awp.iml" filepath="$PROJECT_DIR$/../awp/.idea/awp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10mars/tailwind-ui/.idea/tailwind-ui.iml" filepath="$PROJECT_DIR$/../10mars/tailwind-ui/.idea/tailwind-ui.iml" />
     </modules>
   </component>
 </project>

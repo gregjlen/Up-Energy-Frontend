@@ -5,5 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="HTML" />
+    <orderEntry type="module" module-name="awp" />
+    <orderEntry type="module" module-name="ateros-web-frontend" />
+    <orderEntry type="module" module-name="tailwind-ui" />
   </component>
 </module>

@@ -2,10 +2,34 @@
 
 session_start();
 
+if (isset($_POST['login'])){
+
+    $code = $_POST['password'];
+
+    if ($code == "0504"){
+        $_SESSION['mdp'] = 'start';
+
+    }else{
+        echo 'Mot de passe faux';
+    }
+}
+
+
 if (isset($_SESSION['mdp'])){
 
 }else{
-    header('Location: login.php');
+
+    ?>
+
+
+    <form method="post" action="">
+        <input name="password" type="text" placeholder="Code">
+        <input name="login" value="Envoyer" type="submit">
+    </form>
+
+<?php
+
+    exit();
 }
 
 ?>
@@ -27,7 +51,7 @@ if (isset($_SESSION['mdp'])){
     -->
     <link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
     <link href="assets/css/vendor.min.css" rel="stylesheet"/>
-    <link href="assets/css/style.css?v=1.4.3" rel="stylesheet"/>
+    <link href="assets/css/style.css?v=1.4.5" rel="stylesheet"/>
 
 </head>
 <body>

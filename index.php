@@ -1,22 +1,7 @@
 <?php
 
-echo "debug: 
-<a href='index.php?id=1'>Test 1 </a> / 
-<a href='index.php?id=2'>Test 2 </a> / 
-<a href='index.php?id=3'>Test 3 </a> / 
-<a href='index.php?id=4'>Test 4 </a> / 
-<a href='index.php?id=5'>Test 5 </a> / 
-<a href='index.php?id=6'>Test 6 </a> / 
-<a href='index.php?id=7'>Test 7 </a> / 
-<a href='index.php?id=8'>Test 8 </a> / 
-<a href='index.php?id=9'>Test 9 </a> / 
-";
-?>
-<?php
-
 $app_root = './includes';
 include "$app_root/app/header.inc.php";
-
 
 ?>
 
@@ -26,48 +11,70 @@ include "$app_root/app/header.inc.php";
         background-color: white;
     }
 
+    video {
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+    }
+    .video-wrapper {
+        width: 100%;
+        height: 80vh;
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header{
+        position: relative;
+        color: white;
+    }
 </style>
 
 
-    <section class="slider slider-2">
-        <div class="container-fluid pe-0 ps-0">
-            <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="false" data-space="0" data-loop="true" data-speed="800">
-                <!--
 
-                https://static-cdn.ateros.fr/file/ateros/3LshswQIoWt5U1eeZB525fT4fKKuEQY5VmtHZ85T.png
+    <div class="video-wrapper">
+        <video playsinline autoplay muted loop poster="cake.jpg">
+            <source src="https://static-cdn.ateros.fr/file/ateros/sJlBCA4YbjR38x85zF3j0XPjaxXOUpDuMzrKrE2Y.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
 
-                -->
+        <div class="header">
+            <h1 class="slide-headline text-white" style="font-size: 1,8em;">Aujourd'hui,<br> l'énergie de demain.</h1>
+        </div>
+    </div>
+    <!--
+       <section class="slider slider-2">
+           <div class="container-fluid pe-0 ps-0">
+               <div class="slider-carousel owl-carousel carousel-navs carousel-dots" data-slide="1" data-slide-rs="1" data-autoplay="true" data-nav="false" data-dots="false" data-space="0" data-loop="true" data-speed="800">
+
 
                 <div class="slide bg-overlay">
-                    <div class="bg-section"><img src="<?= $_GET['id']; ?>.jpg" alt="Background"/></div>
+                    <div class="bg-section"><img src="cs10.jpg" style="background-size: cover;
+background-repeat: no-repeat; background-position: top;" alt="Background"/></div>
                     <div class="container">
                         <div class="row">
                             <div class="col-12 col-lg-12">
-                                <div class="slide-content text-center">
+                                <div class="slide-content text-top mb-2" style="margin-top: -250px;">
                                     <h1 class="slide-headline text-white">Aujourd'hui,<br> l'énergie de demain.</h1>
                                     <p class="slide-desc text-white">
                                         Une solution énergétique adaptée à vos besoins.
                                     </p>
                                 </div>
-                                <!-- End .slide-content -->
+
                             </div>
                         </div>
-                        <!--  End .row-->
                     </div>
-                    <!-- End .container-->
                 </div>
-                <!-- End .slide-->
-                <!--  Start .slide-->
-                <!-- End .slide-->
             </div>
-            <!-- End .slider-carousel-->
+    </div>
         </div>
-        <!--  End .container-fluid-->
     </section>
-    <!--
-    ============================
-    FeaturesBar #1 Section
-    ============================
+
     -->
 
 <style>
